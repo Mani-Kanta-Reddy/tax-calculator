@@ -55,8 +55,7 @@ tax-calculator/
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/your-username/tax-calculator.git
-cd tax-calculator
+git clone https://github.com/Mani-Kanta-Reddy/tax-calculator
 ```
 
 ### 1. Build the Project
